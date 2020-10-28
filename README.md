@@ -3,4 +3,7 @@
 *same nav bar is going to be used across all three pages so once created I could just copy and paste
 *added the mobile responsive html in the head
 *adjusted the nav items to show at the end of the nav bar with the justify position end.
+*footer added to all the files
+*nav links are active
+*created one row and multiple sub rows for the portfolio page
 
