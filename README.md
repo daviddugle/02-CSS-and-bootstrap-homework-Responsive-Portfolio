@@ -6,4 +6,9 @@
 *footer added to all the files
 *nav links are active
 *created one row and multiple sub rows for the portfolio page
+*photo added to the assets folder for the project
+*forgot my alt tags on my images
+*semantic changes for figures
+*about me page created
+
 
