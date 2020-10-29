@@ -11,5 +11,9 @@
 *semantic changes for figures
 *about me page created
 *Contact page added
+*style sheet added so that minimal css could be added. Primarily for background image
+*set a background image with the inspiration of youtube channel Braintemple.
+*got the text to wrap around the image
+*screenshots added to asset file
 
 
