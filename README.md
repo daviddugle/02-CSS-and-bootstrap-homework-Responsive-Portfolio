@@ -10,5 +10,6 @@
 *forgot my alt tags on my images
 *semantic changes for figures
 *about me page created
+*Contact page added
 
 
