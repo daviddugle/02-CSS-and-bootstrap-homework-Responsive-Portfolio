@@ -1,4 +1,7 @@
 # 02-CSS-and-bootstrap-homework-Responsive-Portfolio
+This was a challenging assignment. I feel that I could have done better in some areas, I spent a lot of time on this assignment. The site shows three pages; Contact, portfolio and about. all of the links work and I feel like it was styled in a modern fashion. Bootstrap helped out in all areas. I challenged myself to avoid CSS as much as possible and was able to complete almost the entirety without it. 
+
+
 *Initial setup of the three files with the shells of the html
 *same nav bar is going to be used across all three pages so once created I could just copy and paste
 *added the mobile responsive html in the head
